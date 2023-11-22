@@ -24,6 +24,8 @@ Clone off GitHub. Run an npm install to ensure appropriate packages are availabl
 
 ## Usage
 
+[Walkthrough Video](https://drive.google.com/file/d/1L_hvjsIK1aoAoQvlbiKs9kJmDJBSvrkm/view)
+
 ## Contributions
 
 Feel free to contact me.
